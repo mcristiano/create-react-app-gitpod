@@ -3,7 +3,7 @@ image:
 
 tasks:
   - init: npm install
-    command: npm start
+    command: npm install
 
 ports:
   - port: 3000
